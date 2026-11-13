@@ -13,5 +13,3 @@ We host open-weight models such as DeepSeek and GLM with refusals removed from t
 - **Pay as you go.** Prepaid USD credits, no subscription. See [pricing](https://bf16.ai/pricing).
 
 **Links:** [Website](https://bf16.ai) · [Docs](https://bf16.ai/docs) · [Models](https://bf16.ai/models) · [Pricing](https://bf16.ai/pricing) · [Playground](https://bf16.ai/playground) · [Blog](https://bf16.ai/blog)
-
-bf16.ai is launching soon.
